@@ -15,5 +15,5 @@
    * 
   
     
-4. A one sentence overview of our repository, meant for someone who is not familiar with the project:
+4. A one-sentence overview of our repository, meant for someone who is not familiar with the project:
    * <Overview goes here>
