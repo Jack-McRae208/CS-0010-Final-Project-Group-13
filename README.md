@@ -14,6 +14,9 @@
    * [Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2/resource/4af8e160-57e9-4ebf-a501-76ca1b42fc99)
    * [Population](https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts)
    * [311 Data](https://data.wprdc.org/dataset/pittsburgh-311-data)
+   * [Pools](https://data.wprdc.org/dataset/city-pools)
+   * [Playgrounds](https://data.wprdc.org/dataset/playgrounds)
+   * [Courts](https://data.wprdc.org/dataset/city-of-pittsburgh-courts)
   
     
 4. A one-sentence overview of our repository, meant for someone who is not familiar with the project:
