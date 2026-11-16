@@ -1,5 +1,5 @@
 1. Team name
-   * <Team name goes here>
+   * Good Vibes
    
 2. Team members and their email addresses:
 
