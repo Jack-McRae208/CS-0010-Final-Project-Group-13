@@ -20,4 +20,4 @@
   
     
 4. A one-sentence overview of our repository, meant for someone who is not familiar with the project:
-   * <Overview goes here>
+   * An evaluation of the **vibe/atmosphere** of Pittsburgh neighborhoods that examines park acreage, recreational structures, and 311 data.
